@@ -21,3 +21,7 @@ function computeamounts(salar, amount) {
 }
 
 console.log(computeamounts(salary, sale))
+
+
+
+
